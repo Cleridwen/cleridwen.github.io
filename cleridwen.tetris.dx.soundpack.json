@@ -1,0 +1,35 @@
+{
+    "name": "Tetris DX Sound Pack",
+    "rotate": "https://cleridwen.github.io/spin.mp3",
+    "land": "https://cleridwen.github.io/land-hard.mp3",
+    "harddrop": "https://cleridwen.github.io/land.mp3",
+    "lock": "https://cleridwen.github.io/land.mp3",
+    "ready": "https://cleridwen.github.io/select.mp3",
+    "go": "https://cleridwen.github.io/levelup.mp3",
+    "died": "https://cleridwen.github.io/gameover.mp3",
+    "hold": "https://cleridwen.github.io/select.mp3",
+    "move": "https://cleridwen.github.io/side.mp3",
+    "golive": "https://ecdldaiiere.github.io/Eddiez-Soundz/goodluckygo.mp3",
+    "scoring": {
+        "CLEAR1": "https://cleridwen.github.io/clear-short.mp3",
+        "CLEAR2": "https://cleridwen.github.io/clear-short.mp3",
+        "CLEAR3": "https://cleridwen.github.io/clear-short.mp3",
+        "CLEAR4": "https://cleridwen.github.io/tetris.mp3",
+        "TSPIN": "https://cleridwen.github.io/tenlines.mp3",
+        "TSPIN_MINI": "https://cleridwen.github.io/tenlines.mp3",
+        "TSPIN_MINI_SINGLE": "https://cleridwen.github.io/tenlines.mp3",
+        "TSPIN_SINGLE": "https://cleridwen.github.io/tenlines.mp3",
+        "TSPIN_DOUBLE": "https://cleridwen.github.io/tenlines.mp3",
+        "TSPIN_TRIPLE": "https://cleridwen.github.io/tenlines.mp3",
+        "PERFECT_CLEAR": "https://cleridwen.github.io/victory.mp3"
+    },
+    "specialScoring": {
+        "ALLSPIN": [{
+            "url": "https://cleridwen.github.io/tenlines.mp3",
+            "b2b": true
+        }, {
+            "url": "https://cleridwen.github.io/tenlines.mp3",
+            "b2b": false
+        }]
+    }
+}
