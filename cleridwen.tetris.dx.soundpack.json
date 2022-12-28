@@ -9,7 +9,7 @@
     "died": "https://cleridwen.github.io/gameover.mp3",
     "hold": "https://cleridwen.github.io/select.mp3",
     "move": "https://cleridwen.github.io/side.mp3",
-    "golive": "https://ecdldaiiere.github.io/Eddiez-Soundz/goodluckygo.mp3",
+    "golive": "https://cleridwen.github.io/levelup.mp3",
     "scoring": {
         "CLEAR1": "https://cleridwen.github.io/clear-short.mp3",
         "CLEAR2": "https://cleridwen.github.io/clear-short.mp3",
